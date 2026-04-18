@@ -26,23 +26,23 @@ cd shop_graphql_api
 
 ### 2. Create Virtual Environment
 ```bash
-python -m venv akshu05
+python -m venv venv
 ```
 
 ### 3. Activate Virtual Environment
 - **On Windows (PowerShell):**
   ```powershell
-  akshu05\Scripts\Activate.ps1
+  venv\Scripts\Activate.ps1
   ```
   
 - **On Windows (CMD):**
   ```cmd
-  akshu05\Scripts\activate
+  venv\Scripts\activate
   ```
 
 - **On macOS/Linux:**
   ```bash
-  source akshu05/bin/activate
+  source venv/bin/activate
   ```
 
 ### 4. Install Dependencies
